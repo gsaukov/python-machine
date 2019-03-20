@@ -1,0 +1,40 @@
+
+def reverse(s):
+    s = s.split()
+    s.reverse()
+    return s
+
+print(reverse("This is the best"))
+
+def reverse2(s):
+    return " ".join(reversed(s.split()))
+
+print(reverse2("This is the best"))
+
+
+def reverse3(s):
+    return " * ".join(s.split()[::-1])
+
+print(reverse3("This is the best"))
+
+def reverse4(s):
+    spaces = [' ']
+    length = len(s)
+    words = []
+    i = 0
+
+    while i < length:
+        if s[i] not in spaces:
+            word_start = i
+
+            while i < length and s[i] not in spaces:
+                i += 1
+
+            words.append(s[word_start:i])
+
+        i += 1
+
+
+    return words[::-1]
+
+print(reverse4("This is the best"))
