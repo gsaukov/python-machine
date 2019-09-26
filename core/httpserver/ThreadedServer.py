@@ -3,6 +3,7 @@ from http.server import HTTPServer
 from urllib.parse import urlparse
 from socketserver import ThreadingMixIn
 from core.httpserver import Webmap
+import threading
 
 class GetHandler(BaseHTTPRequestHandler):
 
@@ -10,6 +11,8 @@ class GetHandler(BaseHTTPRequestHandler):
         parsed_path = urlparse(self.path)
 
         map = Webmap.getMap()
+
+        print(threading.currentThread().getName())
 
         self.send_response(200)
         self.send_header("Content-type","text/html")
