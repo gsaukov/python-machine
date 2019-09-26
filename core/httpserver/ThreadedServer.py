@@ -16,7 +16,7 @@ class GetHandler(BaseHTTPRequestHandler):
         self.end_headers()
 
         self.wfile.write(map.encode())
-        self.finish()
+
         return
 
 class ThreadedHTTPServer(ThreadingMixIn, HTTPServer):
