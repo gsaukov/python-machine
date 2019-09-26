@@ -5,6 +5,8 @@ from socketserver import ThreadingMixIn
 from core.httpserver import Webmap
 import threading
 
+# https://python-visualization.github.io/folium/quickstart.html
+
 class GetHandler(BaseHTTPRequestHandler):
 
     def do_GET(self):
