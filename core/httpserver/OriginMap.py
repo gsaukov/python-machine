@@ -6,7 +6,7 @@ def getMap():
     latmean = df['LAT'].mean()
     lonmean = df.LON.mean()
 
-    map5 = folium.Map(location=[latmean, lonmean], zoom_start=5, tiles='Stamen Terrain')
+    map = folium.Map(location=[latmean, lonmean], zoom_start=5, tiles='Stamen Terrain')
 
     def color(elev):
         if elev in range(0, 1000):
@@ -20,7 +20,7 @@ def getMap():
         return col
 
     for lat,lon,name,elev in zip(df['LAT'], df['LON'], df['NAME'], df.ELEV):
-            folium.Marker(location = [lat, lon], popup=name, icon=folium.Icon(color=color(elev))).add_to(map5)
+            folium.Marker(location = [lat, lon], popup=name, icon=folium.Icon(color=color(elev))).add_to(map)
 
-    return map5.get_root().render()
+    return map.get_root().render()
 

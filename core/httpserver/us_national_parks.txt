@@ -1,0 +1,508 @@
+NAME,LON,LAT,VAL
+Abraham Lincoln Birthplace National Historical Park,-85.7302,37.5332,260
+Abraham Lincoln National Cemetery,-88.12595,41.3896,412
+Acadia National Park,-68.04902,44.454,302
+Adams National Historical Park,-71.01119,42.25639,309
+Admiralty Island National Monument,-134.16105,57.61806,240
+African American Civil War Memorial,-77.02569,38.91639,226
+African Burial Ground National Monument,-73.99364,40.71367,344
+Agate Fossil Beds National Monument,-103.75492,42.42428,365
+Agua Fria National Monument,-112.07633,34.15417,124
+AIDS Memorial Grove,-122.46122,37.77,200
+Ala Kahakai National Historic Trail,-155.68106,18.91111,380
+Alagnak River,-156.79582,59.01063,430
+Aleutian World War II National Historic Area,-166.52692,53.88889,272
+Alibates Flint Quarries National Monument,-101.66722,35.57139,61
+Allegheny Portage Railroad,-78.5401,40.45417,12
+Amistad National Recreation Area,-101.04972,29.43667,195
+Anacostia Park,-76.89998,38.8,130
+Andersonville National Cemetery,-84.13093,32.20358,316
+Andersonville National Historic Site,-84.12686,32.19759,403
+Andrew Johnson National Cemetery,-82.83763,36.15527,43
+Andrew Johnson National Historic Site,-82.83482,36.15833,494
+Aniakchak National Monument and Preserve,-158.14972,56.9,179
+Antietam National Battlefield,-77.73945,39.4803,64
+Antietam National Cemetery,-77.73904,39.47914,115
+Apostle Islands National Lakeshore,-90.66402,46.96528,22
+Appomattox Court House National Historical Park,-78.80083,37.37845,315
+Arches National Park,-109.56462,38.77,379
+Arkansas Post National Memorial,-91.34347,34.02361,314
+Arlington House The Robert E. Lee Memorial,-77.07389,38.88275,137
+Arlington National Cemetery,-77.07122,38.87657,271
+Assateague Island National Seashore,-75.20818,38.08332,396
+Aztec Ruins National Monument,-107.99782,36.83583,398
+Badlands National Park,-102.43392,43.6504,152
+Bandelier National Monument,-106.32082,35.77888,46
+Battleground National Cemetery,-73.96286,40.81333,481
+Benjamin Franklin National Memorial,-75.17286,39.95832,60
+Bent's Old Fort National Historic Site,-103.42502,38.04045,301
+Bering Land Bridge National Preserve,-164.80842,66.05595,101
+Big Bend National Park,-103.06042,29.81874,404
+Big Cypress National Preserve,-81.0337,25.85889,466
+Big Hole National Battlefield,-113.64332,45.6375,323
+Big South Fork National River and Recreation Area,-84.69835,36.4865,338
+Big Thicket National Preserve,-94.41082,30.27567,413
+Bighorn Canyon National Recreation Area,-108.13032,45.19444,58
+Biscayne National Park,-80.26162,25.442,30
+Black Canyon of the Gunnison National Park,-107.72792,38.58491,241
+Blue Ridge Parkway,-80.93578,36.51861,386
+Bluestone National Scenic River,-80.99901,37.54167,23
+Booker T. Washington National Monument,-79.76564,37.12333,299
+Boston African American National Historic Site,-71.06454,42.36,364
+Boston Harbor Islands National Recreation Area,-70.94565,42.31861,54
+Boston National Historical Park,-71.05617,42.36,255
+Brices Cross Roads National Battlefield Site,-88.7284,34.50672,477
+Brown v. Board of Education National Historic Site,-95.67621,39.03806,331
+Bryce Canyon National Park,-112.19632,37.5548,144
+Buck Island Reef National Monument,-64.61897,17.78694,326
+Buffalo National River,-92.42606,36.17806,391
+Cabrillo National Monument,-117.24202,32.67352,153
+California Coastal National Monument,-122.17994,36.89,76
+Canaveral National Seashore,-80.77679,28.7675,215
+Cane River Creole National Historical Park,-93.00343,31.66684,456
+Canyon de Chelly National Monument,-109.46912,36.1336,484
+Canyonlands National Park,-109.88072,38.261,238
+Canyons of the Ancients National Monument,-108.99994,37.37,301
+Cape Cod National Seashore,-70.20513,42.07389,431
+Cape Hatteras National Seashore,-75.51123,35.30361,332
+Cape Henry Memorial,-76.00819,36.92806,249
+Cape Krusenstern National Monument,-163.50002,67.41333,242
+Cape Lookout National Seashore,-76.53624,34.60528,90
+Capitol Reef National Park,-111.23862,38.27617,173
+Captain John Smith Chesapeake National Historic Trail,-75.99995,38,125
+Capulin Volcano National Monument,-103.96972,36.78222,40
+Carl Sandburg Home National Historic Site,-82.45149,35.26778,67
+Carlsbad Caverns National Park,-104.40902,32.1648,439
+Carrizo Plain,-119.74994,35.16,7
+Carter G. Woodson Home National Historic Site,-77.02399,38.90999,484
+Casa Grande Ruins National Monument,-111.53162,32.99517,254
+Cascade–Siskiyou National Monument,-122.46105,42.07778,224
+Castillo de San Marcos National Monument,-81.31153,29.89775,426
+Castle Clinton National Monument,-74.01674,40.7036,350
+Catoctin Mountain Park,-77.46665,39.64833,350
+Cedar Breaks National Monument,-112.84612,37.64519,223
+Cedar Creek and Belle Grove National Historical Park,-78.30063,39.16749,494
+Chaco Culture National Historical Park,-107.95862,36.05833,499
+Chalmette National Cemetery,-89.98648,29.94417,37
+Chamizal National Memorial,-106.45402,31.76778,19
+Channel Islands National Park,-119.74212,34.0394,374
+Charles Pinckney National Historic Site,-79.82454,32.84611,7
+Chattahoochee River National Recreation Area,-84.32454,33.98722,26
+Chesapeake and Ohio Canal National Historical Park,-77.05744,38.89972,319
+Chicago Portage National Historic Site,-87.80676,41.80556,164
+Chickamauga and Chattanooga National Military Park,-85.25984,34.94,86
+Chickasaw National Recreation Area,-96.97204,34.50056,254
+Chimney Rock National Historic Site,-103.34792,41.70368,397
+Chiricahua National Monument,-109.34802,32.01778,426
+Christiansted National Historic Site,-64.70204,17.74693,474
+City of Rocks National Reserve,-113.70366,42.07727,55
+Clara Barton National Historic Site,-77.14065,38.96694,375
+Colonial National Historical Park,-76.5084,37.21926,344
+Colonial Parkway,-76.71576,37.21557,369
+Colorado National Monument,-108.68582,39.04249,95
+Congaree National Park,-80.78308,33.78333,184
+Coronado National Memorial,-110.25602,31.3455,255
+Cowpens National Battlefield,-81.8179,35.13667,383
+Crater Lake National Park,-122.10872,42.943,36
+Craters of the Moon National Monument and Preserve,-113.51642,43.41667,220
+Cumberland Gap National Historical Park,-83.68703,36.60417,466
+Cumberland Island National Seashore,-81.44985,30.83333,23
+Curecanti National Recreation Area,-107.32672,38.45472,296
+Custer National Cemetery,-107.43165,45.56953,59
+Cuyahoga Valley National Park,-81.55677,41.20906,151
+David Berger National Memorial,-81.49236,41.47472,7
+Dayton Aviation Heritage National Historical Park,-84.0887,39.79472,378
+De Soto National Memorial,-82.64429,27.52389,43
+Death Valley National Park,-117.09872,36.524,172
+Delaware Water Gap National Recreation Area,-75.01726,41.08232,126
+Delaware Water Gap National Recreation Area,-75.00416,41.08996,76
+Delaware Water Gap National Recreation Area,-74.89562,41.14625,406
+Delaware Water Gap National Recreation Area,-74.80594,41.30989,490
+Delaware Water Gap National Recreation Area Boat Launch,-74.98472,41.10718,9
+Delaware Water Gap NRA Store & Campground,-74.87387,41.21144,101
+Denali National Park,-149.98632,63.54357,353
+Denali National Park and Preserve,-150.49972,63.33333,478
+Devils Postpile National Monument,-119.08412,37.62444,363
+Devils Tower National Monument,-104.71502,44.59028,204
+Dinosaur National Monument,-108.98302,40.53333,2
+Dry Tortugas National Park,-81.7859,24.6384,28
+East Potomac Park,-77.0259,38.87,294
+Ebey's Landing National Historical Reserve,-122.68951,48.21341,307
+Edgar Allan Poe National Historic Site,-75.15011,39.96167,371
+Effigy Mounds National Monument,-91.18537,43.08861,173
+Eisenhower National Historic Site,-77.26316,39.79332,32
+El Malpais National Monument,-107.95752,34.87635,311
+El Morro National Monument,-108.35302,35.03833,498
+Eleanor Roosevelt National Historic Site,-73.93511,41.78582,461
+Ellis Island National Monument,-74.03937,40.69956,444
+Eugene O'Neill National Historic Site,-122.02942,37.82444,403
+Everglades National Park,-80.79976,25.36,297
+Father Marquette National Memorial,-84.71708,45.85167,490
+Federal Hall,-74.01014,40.70722,441
+Fire Island National Seashore,-72.98263,40.69639,17
+First Ladies National Historic Site,-81.37511,40.79667,409
+Flight 93 National Memorial,-78.9076,40.05615,49
+Florissant Fossil Beds National Monument,-105.26744,38.91806,385
+Ford's Theatre National Historic Site,-77.02563,38.89667,161
+Fort Bowie National Historic Site,-109.43542,32.14611,416
+Fort Caroline National Memorial,-81.50042,30.38694,434
+Fort Davis National Historic Site,-103.92562,30.59583,187
+Fort Donelson National Battlefield,-87.85736,36.48438,261
+Fort Donelson National Cemetery,-87.84766,36.48525,263
+Fort Dupont Park,-76.94947,38.8766,372
+Fort Foote Park,-77.02778,38.7667,275
+Fort Frederica National Monument,-81.39313,31.22389,38
+Fort Laramie National Historic Site,-104.53562,42.20917,430
+Fort Larned National Historic Site,-99.2265,38.15667,94
+Fort Matanzas National Monument,-81.23898,29.71528,401
+Fort McHenry National Monument and Historic Shrine,-76.57981,39.26306,320
+Fort Necessity National Battlefield,-79.59956,39.81667,357
+Fort Point National Historic Site,-122.47692,37.81056,258
+Fort Pulaski National Monument,-80.89008,32.02722,314
+Fort Raleigh National Historic Site,-75.70872,35.93833,276
+Fort Scott National Historic Site,-94.70455,37.84389,100
+Fort Smith National Historic Site,-94.42261,35.34333,88
+Fort Stanwix National Monument,-75.45506,43.21056,119
+Fort Sumter National Monument,-79.87453,32.75222,114
+Fort Union National Monument,-105.01802,35.90722,113
+Fort Union Trading Post National Historic Site,-104.04032,47.99944,359
+Fort Vancouver National Historic Site,-122.65792,45.6254,493
+Fort Washington National Park,-77.03304,38.71083,493
+Fossil Butte National Monument,-110.76762,41.85875,424
+Franklin Delano Roosevelt Memorial,-77.0443,38.88389,290
+Frederick Douglass National Historic Site,-76.98511,38.86333,364
+Frederick Law Olmsted National Historic Site,-71.13205,42.325,359
+Fredericksburg and Spotsylvania National Military Park,-77.46901,38.29305,38
+Fredericksburg National Cemetery,-77.46884,38.29307,253
+Friendship Hill National Historic Site,-79.92899,39.77778,249
+Gates of the Arctic National Park and Preserve,-153.29972,67.78333,150
+Gateway National Recreation Area - Breezy Point,-73.92607,40.5565,458
+Gateway National Recreation Area - Floyd Bennett Field,-73.89082,40.591,404
+Gateway National Recreation Area - Fort Hancock,-74.00259,40.46389,499
+Gateway National Recreation Area - Fort Tilden,-73.89093,40.56389,440
+Gateway National Recreation Area - Fort Wadsworth,-74.06232,40.60833,116
+Gateway National Recreation Area - Great Kills Park,-74.12715,40.55542,204
+Gateway National Recreation Area - Jacob Riis Park,-73.87395,40.56702,499
+Gateway National Recreation Area - Jamaica Bay,-73.84231,40.61778,279
+Gateway National Recreation Area - Miller Field,-74.09538,40.56416,142
+Gateway National Recreation Area - Sandy Hook,-73.99506,40.45288,169
+Gauley River National Recreation Area,-80.88982,38.22,374
+General Grant National Memorial,-73.96285,40.81333,110
+George Mason Memorial,-77.03903,38.87944,122
+George Rogers Clark National Historical Park,-87.5354,38.67919,485
+George Washington Birthplace National Monument,-76.93036,38.18611,124
+George Washington Carver National Monument,-94.354,36.98636,172
+George Washington Memorial Parkway,-77.10217,38.91111,46
+Gettysburg National Cemetery,-77.23124,39.82027,134
+Gettysburg National Military Park,-77.24615,39.81206,122
+Giant Sequoia National Monument,-118.50438,36.04,239
+Gila Cliff Dwellings National Monument,-108.27192,33.22722,131
+Glacier Bay National Park,-135.75552,58.41543,262
+Glacier Bay National Park and Preserve,-136.99996,58.5,446
+Glacier National Park,-113.77572,48.692,192
+Glen Canyon National Recreation Area,-111.48672,36.9936,330
+Gloria Dei (Old Swedes') Church,-75.14342,39.93444,298
+Golden Gate National Recreation Area,-122.46652,37.78333,129
+Golden Gate National Recreation Area-Alcatraz Island,-122.42322,37.82667,206
+Golden Gate National Recreation Area-Presidio,-122.46572,37.79806,440
+Golden Spike National Historic Site,-112.54722,41.62048,443
+Governors Island National Monument,-74.01589,40.69139,472
+Grand Canyon,-112.13722,36.05749,192
+Grand Canyon - North Rim,-113.19712,36,45
+Grand Canyon - South Rim National Park,-112.11732,36.06501,443
+Grand Canyon National Park,-112.13745,36.0575,415
+Grand Canyon West Airport,-113.81612,35.99038,137
+Grand Canyon-Parashant National Monument,-113.69972,36.4,23
+Grand Portage National Monument,-89.74898,47.98528,112
+Grand Staircase-Escalante National Monument,-111.68327,37.4,446
+Grand Teton National Park,-110.78822,43.7403,461
+Grant-Kohrs Ranch National Historic Site,-112.73922,46.40833,287
+Great Basin National Park,-114.26082,38.93873,369
+Great Egg Harbor Scenic and Recreational River,-74.64957,39.30417,12
+Great Sand Dunes National Park,-105.54172,37.7539,309
+Great Sand Dunes National Park and Preserve,-105.51182,37.73287,258
+Great Smoky Mountains National Park,-83.16773,35.72715,108
+Greenbelt Park,-76.89831,38.98917,474
+Guadalupe Mountains National Park,-104.85962,31.916,389
+Guilford Courthouse National Military Park,-79.84623,36.13139,338
+Gulf Islands National Park Reserve,-123.44732,48.85055,366
+Gulf Islands National Seashore,-86.96735,30.36444,57
+Gwaii Haanas Park Reserve and Haida Heritage Site,-131.47072,52.38916,144
+Hagerman Fossil Beds National Monument,-114.94502,42.79028,238
+Haleakala National Park,-156.21002,20.71062,99
+Hamilton Grange National Memorial,-73.94815,40.82238,429
+Hampton National Historic Site,-76.58734,39.41611,443
+Hanford Reach National Monument,-119.51661,46.58333,208
+Harmony Hall Fort Washington Maryland,-77.00304,38.74583,190
+Harpers Ferry National Historical Park,-77.72952,39.32278,357
+Harry S. Truman National Historic Site,-94.53209,38.90211,237
+Hawaii Volcanoes National Park,-155.29962,19.39999,156
+Herbert Hoover National Historic Site,-91.3479,41.66861,45
+Historic Camden Revolutionary War Site,-80.60317,34.23389,143
+Historic Jamestowne,-76.77873,37.20971,392
+Hohokam Pima National Monument,-111.92642,33.15444,117
+Home of Franklin D. Roosevelt National Historic Site,-73.93539,41.76721,227
+Homestead National Monument of America,-96.82172,40.28525,254
+Honokohau National Historical Park,-156.02172,19.6787,126
+Hopewell Culture National Historical Park,-83.0062,39.37583,297
+Hopewell Furnace National Historic Site,-75.7754,40.19861,485
+Horseshoe Bend National Military Park,-85.73817,32.97083,333
+Hot Springs National Park,-92.95843,34.52684,250
+Hovenweep National Monument,-109.07702,37.38388,76
+Hubbell Trading Post National Historic Site,-109.59312,35.72556,111
+Independence Hall,-75.1498,39.94889,115
+Independence National Historical Park,-75.14787,39.94778,278
+Indiana Dunes National Lakeshore,-87.10791,41.64806,383
+International Peace Garden,-100.06432,48.99098,415
+Inupiat Heritage Center,-156.75331,71.29861,493
+Ironwood Forest National Monument,-111.56673,32.45896,28
+Isle Royale National Park,-88.89144,47.9624,258
+James A. Garfield National Historic Site,-81.34706,41.66222,297
+Jean Lafitte National Historical Park and Preserve,-89.99398,29.9425,246
+Jefferson National Expansion Memorial,-90.18483,38.6246,202
+Jewel Cave National Monument,-103.82912,43.72944,191
+Jimmy Carter National Historic Site,-84.39984,32.03389,111
+John D. Rockefeller Jr. Memorial Parkway,-110.69273,44.10472,423
+John Day Fossil Beds National Monument,-119.63412,44.54987,333
+John Ericsson National Memorial,-77.05014,38.88667,466
+John Fitzgerald Kennedy National Historic Site,-71.12428,42.34583,45
+John Muir National Historic Site,-122.13302,37.99131,386
+Johnstown Flood National Memorial,-78.77847,40.34556,139
+Joshua Tree National Park,-115.82762,33.843,217
+Kalaupapa Leprosy Settlement and National Historical Park,-156.95972,21.17778,488
+Kasha-Katuwe Tent Rocks National Monument,-106.41912,35.6736,377
+Kate Mullany National Historic Site,-73.68163,42.7399,79
+Katmai National Park,-154.88652,58.58305,427
+Katmai National Park and Preserve,-154.99972,58.5,193
+Kenai Fjords National Park,-149.64982,59.91666,383
+Kenilworth Park and Aquatic Gardens,-76.94771,38.90833,203
+Kennesaw Mountain National Battlefield Park,-84.5779,33.98306,241
+Keweenaw National Historical Park,-88.4537,47.24667,57
+Kings Canyon National Park,-118.64062,36.81199,31
+Kings Mountain National Military Park,-81.38928,35.13778,404
+Knife River Indian Villages National Historic Site,-101.38562,47.35417,227
+Kobuk Valley National Park,-159.13662,67.34408,212
+Korean War Veterans Memorial,-77.047,38.88778,307
+Lake Chelan National Recreation Area,-120.67802,48.32194,421
+Lake Clark National Park,-154.32362,60.19943,85
+Lake Clark National Park and Preserve,-153.41642,60.96667,437
+Lake Mead National Recreation Area,-113.69972,36.4,223
+Lake Mead National Recreation Area,-114.79642,36.00972,95
+Lake Meredith National Recreation Area,-101.55252,35.71472,232
+Lake Roosevelt National Recreation Area,-118.98032,47.95611,261
+Lassen Volcanic National Park,-121.41452,40.48297,109
+Lava Beds National Monument,-121.50802,41.71389,165
+Lewis and Clark National and State Historical Parks,-123.87722,46.13361,248
+Lewis and Clark National Historic Trail,-108.00939,46.00361,42
+Liberty Memorial,-94.58606,39.08044,325
+Lincoln Boyhood National Memorial,-86.9968,38.11833,367
+Lincoln Home National Historic Site,-89.64484,39.79722,142
+Lincoln Memorial,-77.04992,38.8893,161
+Little Bighorn Battlefield National Monument,-107.42722,45.57028,227
+Little River Canyon National Preserve,-85.59536,34.44056,43
+Little Rock Central High School National Historic Site,-92.29845,34.73666,114
+Longfellow National Historic Site,-71.12623,42.37667,440
+Lowell National Historical Park,-71.31008,42.64667,7
+Lower East Side Tenement National Historic Site,-73.98997,40.7185,37
+Lyndon B. Johnson National Historical Park,-98.62398,30.24083,228
+Lyndon Baines Johnson Memorial Grove on the Potomac,-77.05125,38.87861,488
+Maggie L. Walker National Historic Site,-77.4379,37.54778,357
+Mammoth Cave National Park,-86.11403,37.1841,306
+Manassas National Battlefield Park,-77.52151,38.81277,216
+Manzanar National Historic Site,-118.15422,36.72833,498
+Marsh-Billings-Rockefeller National Historical Park,-72.52917,43.63125,159
+Martin Luther King Jr National Memorial,-77.045124,38.885926,227
+Martin Luther King Jr. National Historic Site,-84.37211,33.755,363
+Martin Van Buren National Historic Site,-73.70405,42.36971,430
+Mary McLeod Bethune Council House National Historic Site,-77.03012,38.90778,499
+Meridian Hill Park,-77.03559,38.92124,266
+Mesa Verde National Park,-108.50862,37.3192,411
+Middle Delaware National Scenic River,-74.89984,41.15,166
+Minidoka National Historic Site,-114.23202,42.63694,295
+Minute Man National Historical Park,-71.29842,42.45306,393
+Minuteman Missile National Historic Site,-102.16032,43.93111,71
+Missouri National Recreational River,-97.39263,42.8625,392
+Misty Fiords National Monument,-130.60716,55.62167,40
+Mojave National Preserve,-115.71642,34.88333,122
+Monocacy National Battlefield,-77.39192,39.37115,290
+Montezuma Castle National Monument,-111.83972,34.61305,160
+Moores Creek National Battlefield,-78.10928,34.45806,249
+Morristown National Historical Park,-74.52842,40.76694,336
+Mount Rainier National Park,-121.74982,46.85,230
+Mount Rushmore National Memorial,-103.45952,43.87895,56
+Mount St. Helens National Volcanic Monument,-122.18422,46.23317,392
+Muir Woods National Monument,-122.58362,37.89889,28
+Natchez National Historical Park,-91.38287,31.54333,178
+Natchez Trace Trail,-88.08826,34.66772,418
+National Constitution Center,-75.14876,39.95341,188
+National Japanese Am. Memorial To Patriotism During WW II,-77.01034,38.89452,121
+National Mall,-77.02339,38.89,458
+National Park of American Samoa,-170.68512,-14.25708,185
+National World War II Memorial,-77.04029,38.8894,84
+Natural Bridges National Monument,-110.01342,37.60138,214
+Navajo National Monument,-110.53442,36.68417,1
+New Bedford Whaling National Historical Park,-70.92314,41.63556,386
+New Jersey Pinelands National Reserve,-74.74985,39.75,65
+New Orleans Jazz National Historical Park,-90.06784,29.96306,137
+New River Gorge National River,-81.08152,37.96083,248
+Newberry National Volcanic Monument,-121.25188,43.69417,179
+Nez Perce National Historical Park,-116.35912,46.14194,257
+Nicodemus National Historic Site,-99.61734,39.39083,126
+Ninety Six National Historic Site,-82.02428,34.14694,347
+Niobrara National Scenic River,-100.31642,42.88333,425
+Noatak National Preserve,-161.19972,68,222
+North Cascades National Park,-121.18952,48.70643,91
+Ocmulgee National Monument,-83.60814,32.83667,402
+Oklahoma City National Memorial,-97.51708,35.47278,145
+Old Post Office Pavilion,-77.02788,38.89398,396
+Old Stone House,-77.06054,38.90556,461
+Olympic National Park,-123.52162,47.799,427
+Oregon Caves National Monument,-123.40692,42.09806,452
+Organ Pipe Cactus National Park,-112.85752,32.04444,308
+Oxon Cove Park and Oxon Hill Farm,-78.31665,37.08806,428
+Ozark National Scenic Riverways,-91.27615,37.1907,405
+Pacific Rim National Park Reserve,-124.76872,48.63611,185
+Padre Island National Seashore,-97.36846,26.98444,421
+Palo Alto Battlefield National Historical Park,-97.48037,26.02139,15
+Papah?naumoku?kea Marine National Monument,-171.73327,25.7,143
+Pea Ridge National Military Park,-94.03401,36.45444,263
+Pecos National Historical Park,-105.68912,35.54999,335
+Peirce Mill,-77.05192,38.94028,126
+Pennsylvania Avenue National Historic Site,-77.02373,38.89361,389
+Perry's Victory and International Peace Memorial,-82.81124,41.65417,201
+Petersburg National Battlefield,-77.36123,37.21944,225
+Petrified Forest National Park,-109.78332,35.06274,325
+Petroglyph National Monument,-106.76162,35.13583,49
+Pictured Rocks National Lakeshore,-86.31235,46.56222,467
+Pinnacles National Monument,-121.16662,36.48693,296
+Pipe Spring National Monument,-112.73692,36.86193,178
+Pipestone National Monument,-96.32481,44.01333,494
+Piscataway Park,-77.09276,38.67861,78
+Point Pelee National Park,-82.51749,41.96416,441
+Point Reyes National Seashore,-122.88502,38.06,84
+Pompeys Pillar National Monument,-108.00577,45.99528,127
+Poplar Grove National Cemetery,-77.42845,37.16028,397
+Port Chicago Naval Magazine National Memorial,-122.02952,38.05749,251
+Poverty Point National Monument,-91.40763,32.63904,358
+Prehistoric Trackways National Monument,-106.89972,32.35,135
+President Lincoln's Cottage at the Soldiers' Home,-77.01161,38.94167,478
+President's Park (White House),-77.03674,38.89417,468
+Prince William Forest Park,-77.3797,38.58528,257
+Pu'uhonua o Honaunau National Historical Park,-155.91002,19.42194,23
+Pu'ukohola Heiau National Historic Site,-155.81972,20.02667,258
+Rainbow Bridge National Monument,-110.96382,37.07721,409
+Red Hill Patrick Henry National Memorial,-78.89792,37.03222,105
+Redwood National Park,-123.94482,41.4771,330
+Richmond National Battlefield Park,-77.37345,37.42917,233
+River Raisin National Battlefield Park,-83.37817,41.91361,52
+Rock Creek and Potomac Parkway,-77.05439,38.91306,185
+Rock Creek Park,-77.04498,38.9575,462
+Rocky Mountain National Park,-105.68962,40.414,396
+Roger Williams National Memorial,-71.41075,41.83038,415
+Roosevelt Campobello International Park,-66.95915,44.87583,212
+Rose Atoll Marine National Monument,-168.14994,-14.50994,140
+Ross Lake National Recreation Area,-121.24502,48.67306,281
+Russell Cave National Monument,-85.80314,34.97417,121
+Sagamore Hill National Historic Site,-73.49734,40.88556,352
+Saguaro National Park,-111.13052,32.2432,188
+Saint Croix Island International Historic Site,-67.13317,45.12833,448
+Saint Croix National Scenic Riverway,-92.65735,45.38917,409
+Saint Paul's Church National Historic Site,-73.82566,40.89278,426
+Saint-Gaudens National Historic Site,-72.36848,43.4959,490
+Salem Maritime National Historic Site,-70.88706,42.52056,13
+Salinas Pueblo Missions National Monument,-106.09002,34.25972,363
+Salt River Bay National Historical Park,-64.7587,17.77889,343
+San Antonio Missions National Historical Park,-98.48008,29.36167,190
+San Francisco Maritime National Historical Park,-122.42332,37.80639,295
+San Juan Island National Historical Park,-122.98532,48.45583,185
+San Juan National Historic Site,-66.11012,18.4675,86
+Sand Creek Massacre National Historic Site,-102.52832,38.54083,165
+Santa Monica Mountains National Recreation Area,-118.60222,34.10389,409
+Santa Rosa and San Jacinto Mountains National Monument,-116.7055,33.80083,173
+Saratoga National Historical Park,-73.63728,42.99889,496
+Saugus Iron Works National Historic Site,-71.00873,42.46778,487
+Scotts Bluff National Monument,-103.70052,41.83556,283
+Sequoia National Park,-118.72242,36.36444,136
+Sewall-Belmont House National Historic Site,-77.00344,38.89194,493
+Shenandoah National Park,-78.30072,38.72,6
+Shiloh National Cemetery,-88.32007,35.15041,171
+Shiloh National Military Park,-88.32981,35.15188,468
+Sitka National Historical Park,-135.31362,57.04694,4
+Sleeping Bear Dunes National Lakeshore,-86.02013,44.91306,352
+Sonoran Desert National Monument,-112.45494,33.00167,431
+Springfield Armory National Historic Site,-72.58151,42.10806,129
+St. Lawrence Islands National Park,-75.87276,44.41444,473
+Star-Spangled Banner National Historic Trail,-76.57995,39.26306,371
+Statue Of Liberty National Monument,-74.04477,40.68968,130
+Steamtown National Historic Site,-75.67116,41.40733,389
+Stones River National Battlefield,-86.43639,35.87629,144
+Stones River National Cemetery,-86.436,35.87639,451
+Suitland Parkway,-76.96801,38.84694,315
+Sunset Crater Volcano National Monument,-111.50042,35.36558,46
+Tallgrass Prairie National Preserve,-96.55869,38.43278,60
+Thaddeus Kosciuszko National Memorial,-75.14732,39.94333,470
+Theodore Roosevelt Birthplace National Historic Site,-73.98956,40.73889,418
+Theodore Roosevelt Inaugural National Historic Site,-78.87226,42.90148,325
+Theodore Roosevelt Island,-77.06402,38.89721,447
+Theodore Roosevelt National Park,-103.24872,47.3352,320
+Thomas Cole National Historic Site,-73.86178,42.22583,471
+Thomas Edison National Historical Park,-74.23759,40.78694,365
+Thomas Jefferson Memorial,-77.03647,38.88139,272
+Thomas Stone National Historic Site,-77.03595,38.53139,239
+Timpanogos Cave National Monument,-111.70912,40.44056,78
+Tomb of the Unknowns,-77.07206,38.87638,55
+Tonto National Monument,-111.09412,33.65694,23
+Touro Synagogue National Historic Site,-71.31178,41.48944,38
+Tumacácori National Historical Park,-111.05052,31.5675,292
+Tupelo National Battlefield,-88.73706,34.25528,429
+Tuskegee Airmen National Historic Site,-85.67984,32.45722,320
+Tuskegee Institute National Historic Site,-85.70762,32.43028,5
+Tuzigoot National Monument,-112.02572,34.77085,342
+U.S. Air Force Memorial,-77.06606,38.86865,264
+Ulysses S. Grant National Historic Site,-90.35178,38.55111,258
+United States Marine Corps War Memorial,-77.06946,38.89047,378
+United States Navy Memorial,-77.02286,38.89417,448
+Upper Missouri River Breaks National Monument,-109.02133,47.78333,225
+USS Arizona Memorial,-157.94972,21.365,116
+USS Utah Memorial,-157.96244,21.36889,314
+Valley Forge National Historical Park,-75.43869,40.09693,198
+Vanderbilt Mansion National Historic Site,-73.94174,41.79611,390
+Vermilion Cliffs National Monument,-111.74105,36.80639,424
+Vicksburg National Cemetery,-90.84959,32.34886,73
+Vicksburg National Military Park,-90.84963,32.34879,292
+Vietnam Veterans Memorial,-77.04756,38.8911,122
+Vietnam Women's Memorial,-77.04679,38.8904,105
+Virgin Islands Coral Reef National Monument,-64.72675,18.30611,85
+Virgin Islands National Park,-64.73323,18.33333,73
+Voyageurs National Park,-93.01663,48.0996,383
+Walnut Canyon National Monument,-111.50942,35.17167,208
+Washington Monument,-77.03504,38.88947,364
+Washita Battlefield National Historic Site,-99.70012,36.6175,393
+Weir Farm National Historic Site,-73.45455,41.25806,123
+West Potomac Park,-77.0469,38.886,54
+Whiskeytown-Shasta-Trinity National Recreation Area,-122.94172,40.73528,210
+White House,-77.03634,38.89767,108
+White Sands National Monument,-106.17142,32.77971,182
+Whitman Mission National Historic Site,-118.46112,46.04,245
+William Howard Taft National Historic Site,-84.50845,39.11972,387
+William J Clinton Birthplace Home National Historic Site,-93.5964,33.66717,180
+Wilson's Creek National Battlefield,-93.41984,37.11556,22
+Wind Cave National Park,-103.43302,43.5909,196
+Wolf Trap National Park for the Performing Arts,-77.26184,38.93694,16
+Women's Rights National Historical Park,-76.8012,42.91083,86
+World War II Home Front National Historical Park,-122.36442,37.90619,475
+Wrangell-St. Elias National Park,-143.21622,61.24284,221
+Wrangell-St. Elias National Park and Preserve,-141.99972,61,205
+Wright Brothers National Memorial,-75.66792,36.01417,190
+Wupatki National Monument,-111.38662,35.56556,422
+WW II Valor in the Pacific National Monument Atka Island,-174.44522,52.13806,176
+WW II Valor in the Pacific National Monument Attu Island,172.90944,52.9025,184
+WW II Valor in the Pacific National Monument Ford Island,-157.96022,21.36389,197
+WW II Valor in the Pacific National Monument Kiska,177.46,51.96417,413
+WW II Valor in the Pacific Tule Lake Relocation Center,-121.37466,41.88944,329
+Yellowstone National Park,-110.61342,44.79573,322
+Yorktown National Cemetery,-76.50624,37.22493,207
+Yosemite National Park,-119.69432,37.6379,351
+Yucca House National Monument,-108.68612,37.25027,69
+Yukon-Charley Rivers National Preserve,-142.79972,65,50
+Zion National Park,-112.68142,37.22299,337
