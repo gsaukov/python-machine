@@ -12,7 +12,7 @@ def getMap():
 
 
 
-    heat = HeatMap( list(zip(df.LAT.values, df.LON.values, df.VAL.values)),
+    heat = HeatMap( list(zip(df.LAT.values, df.LON.values, df.VAL.tolist())),
                        min_opacity=0.2,
                        max_val=max_val,
                        radius=17, blur=15,
