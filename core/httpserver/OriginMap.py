@@ -2,7 +2,7 @@ import folium
 import pandas as pd
 
 def getMap():
-    df = pd.read_csv('Volcano.txt')
+    df = pd.read_csv('./Volcano.txt')
     latmean = df['LAT'].mean()
     lonmean = df.LON.mean()
 

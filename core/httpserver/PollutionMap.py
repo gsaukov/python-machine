@@ -3,7 +3,7 @@ from folium.plugins import HeatMap
 import pandas as pd
 
 def getMap():
-    df = pd.read_csv('us_national_parks.txt')
+    df = pd.read_csv('./us_national_parks.txt')
     latmean = df['LAT'].mean()
     lonmean = df.LON.mean()
     max_val = float(df.VAL.max())
